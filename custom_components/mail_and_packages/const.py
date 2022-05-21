@@ -106,6 +106,7 @@ AMAZON_TIME_PATTERN = [
     "Arriverà:",
     "arriving:",
     "Dostawa:",
+    "Zustellung heute:",
     "Zustellung:",
 ]
 AMAZON_EXCEPTION_SUBJECT = "Delivery update:"
